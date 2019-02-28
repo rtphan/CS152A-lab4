@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/ise/CS152A-lab4/clock_divider_tb_isim_beh.exe" -prj "/home/ise/CS152A-lab4/clock_divider_tb_beh.prj" "work.clock_divider_tb" "work.glbl" 
